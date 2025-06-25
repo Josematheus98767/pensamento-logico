@@ -1,0 +1,25 @@
+p {
+    color: rgba(99, 82, 82, 0.959);
+}
+h1 {
+    color: rgba(255, 0, 0, 0.979);
+} 
+ul {
+    color: rgb(0, 0, 0);
+}
+blockquote{
+    color: rgb(0, 0, 0);
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.cor{
+    color: rgb(0, 0, 0);
+}
+
+.abc{
+    color: rgb(20, 20, 19);
+}
